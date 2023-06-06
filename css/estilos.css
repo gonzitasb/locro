@@ -1,1 +1,6 @@
-body { background-image: url(../ imagenes/argentina.jpg); } 
+body {background-color: red;}
+h1 {color:yellow}
+
+body{background-image: url(../imagenes/argentina.png);
+  background-position: center;
+}
